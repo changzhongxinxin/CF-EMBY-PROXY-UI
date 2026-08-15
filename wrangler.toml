@@ -16,8 +16,7 @@ run_worker_first = true
 html_handling = "none"
 
 [placement]
-mode = "region"
-region = "aws:ap-east-1"  # AWS 香港区域
+mode = "smart"
 
 # KV 命名空间绑定声明 (KV Namespace Binding)
 [triggers]
