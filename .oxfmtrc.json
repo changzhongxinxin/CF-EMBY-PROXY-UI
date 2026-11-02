@@ -1,0 +1,24 @@
+{
+  "sortImports": false,
+  "sortPackageJson": false,
+  "sortTailwindcss": false,
+  "ignorePatterns": [
+    "worker.js",
+    "worker (*).js",
+    "**/*.html",
+    ".tmp-*",
+    "frontend/vendor/**",
+    "frontend/dist/**",
+    ".worker-dist/**",
+    "bundled/**",
+    "docs/references/**",
+    "node_modules/**",
+    "**/*.md",
+    ".github/**",
+    "**/*.yml",
+    "**/*.yaml",
+    "**/*.toml",
+    "logs-*.json",
+    "trace-*.json"
+  ]
+}

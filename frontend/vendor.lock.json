@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "packages": {
+    "vue@3.5.32": {
+      "integrity": "sha512-vM4z4Q9tTafVfMAK7IVzmxg34rSzTFMyIe0UUEijUCkn9+23lj0WRfA83dg7eQZIUlgOSGrkViIaCfqSAUXsMw==",
+      "tarball": ".cache/admin-vendor/tarballs/vue-3.5.32.tgz"
+    },
+    "chart.js@4.4.7": {
+      "integrity": "sha512-pwkcKfdzTMAU/+jNosKhNL2bHtJc/sSmYgVbuGTEDhzkrhmyihmP7vUc/5ZK9WopidMDHNe3Wm7jOd/WhuHWuw==",
+      "tarball": ".cache/admin-vendor/tarballs/chart.js-4.4.7.tgz"
+    },
+    "lucide@1.8.0": {
+      "integrity": "sha512-JjV/QnadgFLj1Pyu9IKl0lknrolFEzo04B64QcYLLeRzZl/iEHpdbSrRRKbyXcv45SZNv+WGjIUCT33e7xHO6Q==",
+      "tarball": ".cache/admin-vendor/tarballs/lucide-1.8.0.tgz"
+    }
+  }
+}

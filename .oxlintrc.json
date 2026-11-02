@@ -1,0 +1,23 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "ignorePatterns": [
+    "worker.js",
+    "worker (*).js",
+    "frontend/vendor/**",
+    ".tmp-*",
+    "frontend/dist/**",
+    ".worker-dist/**",
+    "bundled/**",
+    "docs/references/**",
+    "node_modules/**"
+  ],
+  "rules": {
+    "no-unused-vars": [
+      "warn",
+      {
+        "args": "none",
+        "varsIgnorePattern": "^_"
+      }
+    ]
+  }
+}
